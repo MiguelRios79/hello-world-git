@@ -84,3 +84,28 @@ export  $initHighlight;
 | Miguel | Rios | 402366371 |
 | Angel  | Adar | 173663204 |
 
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con el texto anterior
+> Esto es otra cita.
+
+# Lineas Divisoras
+Esto es un texto que sera divido por guiones medios.
+
+---
+Esto es otro texto dividido por asteriscos.
+
+***
+Esto es otro texto dividido por guiones bajos.
+
+___
+
+# Saltos de Linea
+Esto es nuesto primer parrafo.
+
+Esto es nuesto segundo parrafo.
+
+Esto es nuesto tercer parrafo.
+- Lista 
